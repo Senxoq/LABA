@@ -1,0 +1,7 @@
+01.12 North 2.5
+02.12 NorthEast 3
+03.12 East 1
+04.12 West 10
+05.12 North 4
+06.12 NorthWest 11
+07.12 North 5.1
