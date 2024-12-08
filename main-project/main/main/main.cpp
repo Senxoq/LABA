@@ -2,10 +2,12 @@
 //
 
 #include <iostream>
-
+using namespace std;
 int main()
 {
-    std::cout << "Hello\n";
+    cout << "Laboratory work #8. GIT\n";
+    cout << "Variant #6. The wind rose\n";
+    cout << "Author: Arkhip Kupchenko\n";
     return 0;
 }
 
