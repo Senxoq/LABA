@@ -14,10 +14,16 @@ int main()
     try
     { 
         read("data.txt", all, size);
+        cout << "****РОЗА ВЕТРОВ****\n\n";
         for (int i = 0; i < size; i++) {
+            cout << "Дата ";
+            /*Выводит день*/
             cout << all[i]->start.day << '\n';
+            /*Выводит месяц*/
             cout << all[i]->start.month << '\n';
+            cout << "Направление ветра ";
             cout << all[i]->mid.direction << '\n';
+            cout << "Скорость в м/c";
             cout << all[i]->speed << '\n';
             cout << '\n';
         }
