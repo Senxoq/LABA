@@ -5,16 +5,17 @@
 
 struct date
 {
-    int day;
-    int month;
+   int day;
+   int month;
 };
 struct direction
 {
-  char direction[MAX_STRING_SIZE]
+  char direction[MAX_STRING_SIZE];
 };
 
-struct speed 
-{
+struct all
+{ date start;
+direction mid;
   double speed;
 };
 
