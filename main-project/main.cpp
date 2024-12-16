@@ -9,6 +9,7 @@ int main()
     cout << "Laboratory work #8. GIT\n";
     cout << "Variant #6. The Wind Rose\n";
     cout << "Author: Arkhip Kupchenko\n";
+
     weather* weather_data[MAX_FILE_ROWS_COUNT]; 
     int size;
     try {
@@ -26,4 +27,7 @@ int main()
     catch (const char* error) { 
         cout << error << '\n'; 
     } return 0;
+
+    cout << "Group: 24PING_1D\n";
+    return 0;
 }
