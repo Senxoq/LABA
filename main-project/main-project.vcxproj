@@ -127,7 +127,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Filere.cpp" />
+    <ClCompile Include="Filter.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Sort.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="constants.h" />
+    <ClInclude Include="filer.h" />
+    <ClInclude Include="Filter.h" />
+    <ClInclude Include="Sort.h" />
+    <ClInclude Include="Wind_rose.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="data.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

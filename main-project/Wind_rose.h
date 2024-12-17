@@ -10,6 +10,10 @@ struct date
 	struct weather 
 	{
 		date day_month; 
+
+		int day; // целое неотрицательное число 
+		int month; // целое неотрицательное число 
+
 		char direction[MAX_STRING_SIZE]; // направление ветра (North, NorthEast, East, SouthEast, South, SouthWest, West, NorthWest) 
 		float speed; // скорость ветра в м/с (дробное неотрицательное число)
 	};
