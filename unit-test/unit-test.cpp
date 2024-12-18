@@ -1,5 +1,7 @@
 #include "pch.h"
 #include "CppUnitTest.h"
+#include "../main-project/Wind_rose.h"
+#include "../main-project/processing.h"
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
