@@ -8,6 +8,7 @@
 08 12 SouthWest 20
 09 12 West 10.10
 10 12 North 30
+<<<<<<< HEAD
 11 12 East 1.2
 15 1 North 3.5
 20 1 South 4.2
@@ -17,3 +18,7 @@
 18 2 North 5.8
 5 3 SouthEast 4.0
 22 3 NorthEast 3.9
+=======
+11 12 East 10.4
+12 12 East 1.2
+>>>>>>> ALL

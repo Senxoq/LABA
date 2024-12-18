@@ -130,14 +130,20 @@
     <ClCompile Include="Filere.cpp" />
     <ClCompile Include="Filter.cpp" />
     <ClCompile Include="main.cpp" />
+<<<<<<< HEAD
     <ClCompile Include="process.cpp" />
+=======
+>>>>>>> ALL
     <ClCompile Include="Sort.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="constants.h" />
     <ClInclude Include="filer.h" />
     <ClInclude Include="Filter.h" />
+<<<<<<< HEAD
     <ClInclude Include="processing.h" />
+=======
+>>>>>>> ALL
     <ClInclude Include="Sort.h" />
     <ClInclude Include="Wind_rose.h" />
   </ItemGroup>

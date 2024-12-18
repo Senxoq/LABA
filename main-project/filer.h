@@ -1,5 +1,5 @@
-#ifndef FILE_READER_H
-#define FILE_READER_H
+#ifndef FILER_H
+#define FILER_H
 
 #include "Wind_rose.h"
 
